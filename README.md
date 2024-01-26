@@ -24,3 +24,5 @@ Repository contains 13 variables, which can be divided into four categories:
 #### Outcomes
 
 * Death (boolean, indicating whether the patient died)
+
+###### This data was recovered on 2023-11-01 Heart failure clinical records. (2020). UCI Machine Learning Repository. https://doi.org/10.24432/C5Z89R.
